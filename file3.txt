@@ -1,3 +1,4 @@
 this is file 3 (created to check the diff )
 modified this file . 
-git git git 
+git git git
+hi hi hi 
