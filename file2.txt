@@ -2,3 +2,4 @@ this is my file2
 i modified this file
 added some more text
 hi added some more text
+added sometext to check the difference 
